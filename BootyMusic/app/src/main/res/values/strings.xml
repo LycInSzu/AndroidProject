@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BootyMusic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="can_not_find_version_name">无法获取版本信息</string>
+    <string name="confirm">确认</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="single">单曲</string>
+    <string name="album">专辑</string>
+    <string name="artist">艺术家</string>
+    <string name="songMenu">歌单</string>
+</resources>
